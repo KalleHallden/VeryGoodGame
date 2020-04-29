@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "870208500099",
+    "firebase_url": "https://verygoodgame-4d7fe.firebaseio.com",
+    "project_id": "verygoodgame-4d7fe",
+    "storage_bucket": "verygoodgame-4d7fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870208500099:android:e2411b36167ea403ea46b6",
+        "android_client_info": {
+          "package_name": "com.example.verygoodgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870208500099-nu00qivitgjcipdsetsq8f2g029efaao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0fvoApu_EFkxydnkQELsQdSnUtpfDG2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870208500099-nu00qivitgjcipdsetsq8f2g029efaao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
